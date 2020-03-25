@@ -1,0 +1,18 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/category/category",
+        "pages/group/group",
+        "pages/cut/cut",
+        "pages/mine/mine"
+    ],
+    "window": {
+        "backgroundTextStyle": "dark",
+        "navigationBarBackgroundColor": "#f2524f",
+        "navigationBarTitleText": "鄠邑同城",
+        "navigationBarTextStyle": "white",
+        "enablePullDownRefresh": true
+    },
+    "style": "v2",
+    "sitemapLocation": "sitemap.json"
+}
