@@ -21,6 +21,7 @@
 
 .icon-fenlei:before {
   content: "\e61b";
+  
 }
 
 .icon-pintuangou:before {
